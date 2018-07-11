@@ -31,3 +31,11 @@ func twoSum(nums []int, target int) []int {
   }
   return indices
 }
+
+/*******************************
+
+OUTPUT:
+
+[0 1]
+
+*******************************/
